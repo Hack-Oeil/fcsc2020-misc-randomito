@@ -12,7 +12,7 @@ Origine : [Randomito](https://hackropole.fr/fr/challenges/misc/fcsc2020-misc-ran
 > http://localhost
 
 #### tentez 
-> nc randomito.cyrhades.com:4000
+> nc randomito.cyrhades.fr:4000
 
 
 -----------

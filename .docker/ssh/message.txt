@@ -9,8 +9,8 @@
 ░       ▒ ▒ ░░    ░░   ░  ░  ░░ ░  ░   ▒    ░ ░  ░    ░   ░  ░  ░  
 Bienvenue sur le serveur SSH de Cyrhades
 
-Utilisez netcat pour accéder au challenge sur le serveur randomito.cyrhades.com!
+Utilisez netcat pour accéder au challenge sur le serveur randomito.cyrhades.fr!
 
-*****:~$ nc randomito.cyrhades.com:4000
+*****:~$ nc randomito.cyrhades.fr:4000
 
 Bonne chance !
