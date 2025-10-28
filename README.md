@@ -3,7 +3,7 @@
 Pourrez-vous deviner le secret aléatoire généré ?
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Randomito](https://hackropole.fr/fr/challenges/misc/fcsc2020-misc-randomito/)
 
